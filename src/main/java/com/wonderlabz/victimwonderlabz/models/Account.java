@@ -25,4 +25,5 @@ public class Account extends BaseEntity {
     private BigDecimal currentBalance;
     private BigDecimal deposit;
 
+
 }
