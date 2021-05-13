@@ -20,7 +20,7 @@ http://localhost:8085/wonderlabz/swagger-ui.html
 2.	Cash Withdrawal
 3.	Cash Deposit
 4.	Funds Transfer (TODO)
-5.	The logs are being written to the file log in the path defined in the application.properties and it can be altered.
+5.	The transaction history logs are being written to the file log in the path defined in the application.properties and it can be altered.
 
 *Note that to run on production you need to enable the prod profile and provide credentials
 
