@@ -23,10 +23,10 @@ public class SwaggerConfig {
                 .build()
                 .apiInfo(new ApiInfoBuilder()
                         .version("1.0")
-                        .title("Victim Musundire: Wonderlabz Swagger API Documentation")
+                        .title("Victim Musundire: Labz Swagger API Documentation")
                         .contact(new Contact("Victim Musundire", "https://www.victimmusunsire.com",
                                 "mvpvictim@gmail.com"))
-                        .description("Wonderlabz Assessment API Documentation")
+                        .description("Labz Assessment API Documentation")
                         .build());
     }
 
