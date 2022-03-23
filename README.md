@@ -1,4 +1,4 @@
-# Victim Musundire : Wonderlabz
+# Victim Musundire : Labz
 #--------------------------------
 
 # Running the Application
@@ -14,7 +14,7 @@ mvn install
 # The API Documentation
 
 The documentation guid
-http://localhost:8085/wonderlabz/swagger-ui.html
+http://localhost:8085/labz/swagger-ui.html
 
 1.	Create Account (Account contains user details and Accounts associated with user)
 2.	Cash Withdrawal
